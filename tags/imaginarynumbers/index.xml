@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Imaginarynumbers on QuickAnswer</title>
+    <link>https://quickanswer.site/tags/imaginarynumbers/</link>
+    <description>Recent content in Imaginarynumbers on QuickAnswer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://quickanswer.site/tags/imaginarynumbers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JEE Advanced Maths Paper-1 | Question-2 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-2-copy/</link>
+      <pubDate>Thu, 08 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-2-copy/</guid>
+      <description>In this problem, we are given the equation z^-1 - z^3 = i(z^-1 + z^3) and asked to find the number of distinct roots of this equation in the set of complex numbers.
+To solve this equation, we can start by multiplying both sides by z:
+z*(z^-1 - z^2) = i(z*(z^-1 + z^2)).
+This simplifies to:
+z^-1 - z^3 = i(z^-1 + z^3).
+We can then multiply both sides by z^3:</description>
+    </item>
+    
+  </channel>
+</rss>

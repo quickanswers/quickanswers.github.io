@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Differentialequation on QuickAnswer</title>
+    <link>https://quickanswer.site/tags/differentialequation/</link>
+    <description>Recent content in Differentialequation on QuickAnswer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://quickanswer.site/tags/differentialequation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JEE Advanced Maths Paper-2 | Question-1 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-maths-paper-2-question-1/</link>
+      <pubDate>Sun, 11 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-maths-paper-2-question-1/</guid>
+      <description>The equation we are given can be written as:
+𝑥𝑑𝑦−(𝑦2−4𝑦)𝑑𝑥=0
+This is a first-order linear differential equation and can be solved using the integrating factor method. The integrating factor is 𝑚=e^(∫𝑥𝑑𝑥)=e^(x^2/2).
+We multiply both sides of the equation by the integrating factor to get:
+e^(x^2/2)𝑥𝑑𝑦−e^(x^2/2)(𝑦2−4𝑦)𝑑𝑥=0
+Now, we can integrate both sides of the equation to get:
+∫e^(x^2/2)𝑥𝑑𝑦−∫e^(x^2/2)(𝑦2−4𝑦)𝑑𝑥=C
+After integration, we get:
+e^(x^2/2)y - 1/2e^(x^2/2)*(y^2 - 4y) = C
+Now, we can use the initial condition y(1) = 2 to solve for the constant C.</description>
+    </item>
+    
+  </channel>
+</rss>

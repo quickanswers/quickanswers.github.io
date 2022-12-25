@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paper-1 on QuickAnswer</title>
+    <link>https://quickanswer.site/categories/paper-1/</link>
+    <description>Recent content in Paper-1 on QuickAnswer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://quickanswer.site/categories/paper-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JEE Advanced Maths Paper-1 | Question-3 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-3-copy/</link>
+      <pubDate>Sat, 10 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-3-copy/</guid>
+      <description>In this problem, we are given two arithmetic progressions with common differences d1 and d2, respectively. The nth term of the first arithmetic progression is ln = l1 + (n-1)d1, and the nth term of the second arithmetic progression is wn = w1 + (n-1)d2. We are also told that the area of the rectangle with length ln and width wn is An = ln * wn.
+Our goal is to find the value of A100 - A90, given that A51 - A50 = 1000 and d1d2 = 10.</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Maths Paper-1 | Question-1 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-1-copy/</link>
+      <pubDate>Thu, 08 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-1-copy/</guid>
+      <description>In this problem, we are given data about the symptoms of 900 persons in a study about a pandemic. Our goal is to find the probability that a randomly chosen person has at most one symptom.
+To solve this problem, we can use the principle of inclusion-exclusion. This principle states that if we have a group of people with multiple characteristics, we can find the number of people with a certain combination of characteristics by adding the number of people with each characteristic separately, then subtracting the number of people with any pair of characteristics, then adding back the number of people with any triple of characteristics, and so on.</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Maths Paper-1 | Question-2 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-2-copy/</link>
+      <pubDate>Thu, 08 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-2-copy/</guid>
+      <description>In this problem, we are given the equation z^-1 - z^3 = i(z^-1 + z^3) and asked to find the number of distinct roots of this equation in the set of complex numbers.
+To solve this equation, we can start by multiplying both sides by z:
+z*(z^-1 - z^2) = i(z*(z^-1 + z^2)).
+This simplifies to:
+z^-1 - z^3 = i(z^-1 + z^3).
+We can then multiply both sides by z^3:</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Chemistry Paper-1 | Question-7 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-chemistry-paper-1-question-7-copy/</link>
+      <pubDate>Sun, 04 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-chemistry-paper-1-question-7-copy/</guid>
+      <description>The electrochemical extraction of aluminum from bauxite ore involves the electrolysis of Al2O3 mixed with Na3AlF6 to give Al and CO2. This process is known as the Hall-Héroult process.
+Here&amp;rsquo;s a step-by-step explanation of the process:
+Bauxite ore, which is a mixture of aluminum oxide (Al2O3) and other minerals, is mined from the earth.
+The bauxite ore is crushed and ground into a fine powder, called alumina.
+The alumina is dissolved in hot aqueous sodium hydroxide (NaOH) to form a solution called aluminate.</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Chemistry Paper-1 | Question-6 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-chemistry-paper-1-question-6/</link>
+      <pubDate>Sat, 03 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-chemistry-paper-1-question-6/</guid>
+      <description>To solve this problem, you need to first determine the balanced chemical equation for the reaction between Cu(NO3)2 and KI. You can do this by examining the reactants and products and considering the types of ions present.
+The reactants are Cu(NO3)2 and KI, which contain the ions Cu2+, NO3-, K+, and I-. The products are a brown solution and a precipitate. The brown solution likely contains Cu2+ ions, and the precipitate likely contains I- ions.</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Chemistry Paper-1 | Question-5 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-chemistry-paper-1-question-5/</link>
+      <pubDate>Fri, 02 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-chemistry-paper-1-question-5/</guid>
+      <description>The pH of a solution prepared by mixing 0.01 mol each of H2CO3, NaHCO3, Na2CO3, and NaOH in 100 mL of water can be determined by calculating the concentrations of the various species present in the solution.
+The initial concentrations of the various species present in the solution can be calculated as follows:
+• H2CO3: 0.01 M • NaHCO3: 0.01 M • Na2CO3: 0.01 M • NaOH: 0.01 M
+The equilibrium concentrations of the species present in the solution can then be determined.</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Chemistry Paper-1 | Question-4 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-chemistry-paper-1-question-4/</link>
+      <pubDate>Thu, 01 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-chemistry-paper-1-question-4/</guid>
+      <description>The standard molar enthalpy of formation of HgO(s) at 298 K (X) can be calculated using Hess&amp;rsquo;s law of constant heat summation. This law states that the enthalpy change of a reaction is independent of the pathway taken to reach the reaction. Therefore, the enthalpy change of any reaction can be calculated by adding the enthalpy changes of the individual reactions which make up the overall reaction.
+In this case, the reaction of combustion of Hg(g) to form HgO(s) can be broken down into two individual reactions as follows:</description>
+    </item>
+    
+  </channel>
+</rss>

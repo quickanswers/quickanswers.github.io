@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paper-2 on QuickAnswer</title>
+    <link>https://quickanswer.site/categories/paper-2/</link>
+    <description>Recent content in Paper-2 on QuickAnswer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://quickanswer.site/categories/paper-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JEE Advanced Maths Paper-2 | Question-2 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-maths-paper-2-question-2/</link>
+      <pubDate>Mon, 12 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-maths-paper-2-question-2/</guid>
+      <description>a step-by-step solution:
+Draw a diagram of the given configuration.
+Consider one of the smaller circles, say 𝐺𝑖. Since it touches 𝐺 externally, we have 𝑟 + 𝑅 = d, where d is the distance between the centers of 𝐺𝑖 and 𝐺.
+Now consider the two circles 𝐺𝑖 and 𝐺𝑖+1. Since they also touch each other externally, we have 𝑟 + 𝑟 = d&amp;rsquo;, where d&amp;rsquo; is the distance between the centers of 𝐺𝑖 and 𝐺𝑖+1.</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Maths Paper-2 | Question-1 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-maths-paper-2-question-1/</link>
+      <pubDate>Sun, 11 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-maths-paper-2-question-1/</guid>
+      <description>The equation we are given can be written as:
+𝑥𝑑𝑦−(𝑦2−4𝑦)𝑑𝑥=0
+This is a first-order linear differential equation and can be solved using the integrating factor method. The integrating factor is 𝑚=e^(∫𝑥𝑑𝑥)=e^(x^2/2).
+We multiply both sides of the equation by the integrating factor to get:
+e^(x^2/2)𝑥𝑑𝑦−e^(x^2/2)(𝑦2−4𝑦)𝑑𝑥=0
+Now, we can integrate both sides of the equation to get:
+∫e^(x^2/2)𝑥𝑑𝑦−∫e^(x^2/2)(𝑦2−4𝑦)𝑑𝑥=C
+After integration, we get:
+e^(x^2/2)y - 1/2e^(x^2/2)*(y^2 - 4y) = C
+Now, we can use the initial condition y(1) = 2 to solve for the constant C.</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Chemistry Paper-2 | Question-3 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-chemistry-paper-2-question-3/</link>
+      <pubDate>Wed, 07 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-chemistry-paper-2-question-3/</guid>
+      <description>The correct statement(s) about polymers is (A) The polymerization of chloroprene gives natural rubber, and (D) Ethene at 350-570 K temperature and 1000-2000 atm pressure in the presence of a peroxide initiator yields high density polythene.
+The polymerization of chloroprene (2-chlorobutadiene) does indeed give natural rubber, which is a type of elastomer. This process involves the addition polymerization of chloroprene monomers to form a polymer with a cis-1,4 configuration.
+Ethene (ethylene) can also be polymerized to form high density polyethylene (HDPE) using a peroxide initiator at high temperatures and pressures.</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Chemistry Paper-2 | Question-2 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-chemistry-paper-2-question-2/</link>
+      <pubDate>Tue, 06 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-chemistry-paper-2-question-2/</guid>
+      <description>To solve this problem, we can use the concept of molality, which is a measure of the concentration of a solute in a solvent. The molality of a solution is defined as the number of moles of solute per kilogram of solvent.
+In this case, the molality of the solution is 0.1 mol/1.8 kg = 0.0556 mol/kg. Since the salt remains 90% dissociated in the solution, this means that 0.9 × 0.</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Chemistry Paper-2 | Question-1 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-chemistry-paper-2-question-1/</link>
+      <pubDate>Mon, 05 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-chemistry-paper-2-question-1/</guid>
+      <description>To solve this problem, we can use the solubility equilibrium expression for PbSO4:
+[Pb2+][SO4^2-] = Ksp
+We can also use the dissociation constants for sulfuric acid to write the equilibrium expressions for H2SO4 and SO4^2-:
+H2SO4 &amp;lt;=&amp;gt; H^+ + HSO4^- Ka1 = [H^+][HSO4^-]/[H2SO4]
+HSO4^- &amp;lt;=&amp;gt; H^+ + SO4^2- Ka2 = [H^+][SO4^2-]/[HSO4^-]
+We know that the concentration of H2SO4 is 1 M, and the concentration of Na2SO4 is 1.8 × 10^-2 M.</description>
+    </item>
+    
+  </channel>
+</rss>

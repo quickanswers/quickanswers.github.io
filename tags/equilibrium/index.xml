@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Equilibrium on QuickAnswer</title>
+    <link>https://quickanswer.site/tags/equilibrium/</link>
+    <description>Recent content in Equilibrium on QuickAnswer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://quickanswer.site/tags/equilibrium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JEE Advanced Chemistry Paper-2 | Question-1 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-chemistry-paper-2-question-1/</link>
+      <pubDate>Mon, 05 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-chemistry-paper-2-question-1/</guid>
+      <description>To solve this problem, we can use the solubility equilibrium expression for PbSO4:
+[Pb2+][SO4^2-] = Ksp
+We can also use the dissociation constants for sulfuric acid to write the equilibrium expressions for H2SO4 and SO4^2-:
+H2SO4 &amp;lt;=&amp;gt; H^+ + HSO4^- Ka1 = [H^+][HSO4^-]/[H2SO4]
+HSO4^- &amp;lt;=&amp;gt; H^+ + SO4^2- Ka2 = [H^+][SO4^2-]/[HSO4^-]
+We know that the concentration of H2SO4 is 1 M, and the concentration of Na2SO4 is 1.8 × 10^-2 M.</description>
+    </item>
+    
+  </channel>
+</rss>

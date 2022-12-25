@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Probability on QuickAnswer</title>
+    <link>https://quickanswer.site/tags/probability/</link>
+    <description>Recent content in Probability on QuickAnswer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://quickanswer.site/tags/probability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JEE Advanced Maths Paper-1 | Question-1 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-1-copy/</link>
+      <pubDate>Thu, 08 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-1-copy/</guid>
+      <description>In this problem, we are given data about the symptoms of 900 persons in a study about a pandemic. Our goal is to find the probability that a randomly chosen person has at most one symptom.
+To solve this problem, we can use the principle of inclusion-exclusion. This principle states that if we have a group of people with multiple characteristics, we can find the number of people with a certain combination of characteristics by adding the number of people with each characteristic separately, then subtracting the number of people with any pair of characteristics, then adding back the number of people with any triple of characteristics, and so on.</description>
+    </item>
+    
+  </channel>
+</rss>

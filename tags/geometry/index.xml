@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Geometry on QuickAnswer</title>
+    <link>https://quickanswer.site/tags/geometry/</link>
+    <description>Recent content in Geometry on QuickAnswer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://quickanswer.site/tags/geometry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JEE Advanced Maths Paper-2 | Question-2 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-maths-paper-2-question-2/</link>
+      <pubDate>Mon, 12 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-maths-paper-2-question-2/</guid>
+      <description>a step-by-step solution:
+Draw a diagram of the given configuration.
+Consider one of the smaller circles, say 𝐺𝑖. Since it touches 𝐺 externally, we have 𝑟 + 𝑅 = d, where d is the distance between the centers of 𝐺𝑖 and 𝐺.
+Now consider the two circles 𝐺𝑖 and 𝐺𝑖+1. Since they also touch each other externally, we have 𝑟 + 𝑟 = d&amp;rsquo;, where d&amp;rsquo; is the distance between the centers of 𝐺𝑖 and 𝐺𝑖+1.</description>
+    </item>
+    
+    <item>
+      <title>JEE Advanced Maths Paper-1 | Question-3 | Detailed Solution</title>
+      <link>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-3-copy/</link>
+      <pubDate>Sat, 10 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://quickanswer.site/posts/jee-advanced-maths-paper-1-question-3-copy/</guid>
+      <description>In this problem, we are given two arithmetic progressions with common differences d1 and d2, respectively. The nth term of the first arithmetic progression is ln = l1 + (n-1)d1, and the nth term of the second arithmetic progression is wn = w1 + (n-1)d2. We are also told that the area of the rectangle with length ln and width wn is An = ln * wn.
+Our goal is to find the value of A100 - A90, given that A51 - A50 = 1000 and d1d2 = 10.</description>
+    </item>
+    
+  </channel>
+</rss>
