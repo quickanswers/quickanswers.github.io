@@ -1,3 +1,71 @@
-baseURL: http://example.org/
+baseURL: "https://quickanswer.site"
 languageCode: en-us
-title: My New Hugo Site
+title: QuickAnswer
+paginate: 5
+theme: PaperMod
+googleAnalytics: G-HVLEP8LKGG
+
+params:
+  showToc: true
+  TocOpen: false
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+  homeInfoParams:
+    Title: "Hello There,"
+    Content: "QuickAnswer.info provides quick solutions to JEE question papers for all subjects. Our team of experienced educators and subject matter experts has curated accurate and reliable solutions to help students prepare for these competitive exams. Our goal is to provide students with the resources and support they need to succeed in their studies and achieve their academic goals. Visit QuickAnswer.info to get access to comprehensive solutions for JEE Main and JEE Advanced question papers in all subjects." 
+  # socialIcons:
+  #   - name: facebook
+  #     url: "https://facebook.com/"
+  #   - name: twitter
+  #     url: "https://twitter.com/"
+  #   - name: github
+  #     url: "https://github.com/"
+  cover:
+    linkFullImages: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    # - identifier: home
+    #   name: Home
+    #   url: /
+      # weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
+    - identifier: home
+      name: Home
+      url: /
+      weight: 60
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
