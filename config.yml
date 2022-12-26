@@ -18,7 +18,7 @@ params:
     keys: ["title", "permalink", "summary", "content"]
   homeInfoParams:
     Title: "Hello There,"
-    Content: "QuickAnswer.info provides quick solutions to JEE question papers for all subjects. Our team of experienced educators and subject matter experts has curated accurate and reliable solutions to help students prepare for these competitive exams. Our goal is to provide students with the resources and support they need to succeed in their studies and achieve their academic goals. Visit QuickAnswer.info to get access to comprehensive solutions for JEE Main and JEE Advanced question papers in all subjects." 
+    Content: "QuickAnswer.site provides quick solutions to JEE question papers for all subjects. Our team of experienced educators and subject matter experts has curated accurate and reliable solutions to help students prepare for these competitive exams. Our goal is to provide students with the resources and support they need to succeed in their studies and achieve their academic goals. Visit QuickAnswer.site to get access to comprehensive solutions for JEE Main and JEE Advanced question papers in all subjects." 
   # socialIcons:
   #   - name: facebook
   #     url: "https://facebook.com/"
